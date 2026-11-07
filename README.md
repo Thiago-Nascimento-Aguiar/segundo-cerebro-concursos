@@ -2,7 +2,7 @@
 
 Projeto desenvolvido para o desafio da DIO utilizando o **Gemini Notebook** (antigo NotebookLM) para criar um assistente especialista em preparação para concursos públicos.
 
-🔗 **Acesse o Notebook:** [Estratégias de Estudo para Concursos](https://notebooklm.link.google/jBOrH25kL3gC)
+🔗 **Acesse o Notebook:** [Estratégias de Estudo para Concursos](https://notebook.google.com/notebook/1061ca35-03e7-4024-a65f-7b4c80b0aaca)
 
 ---
 
